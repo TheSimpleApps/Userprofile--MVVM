@@ -1,0 +1,43 @@
+{
+    "data": {
+        "id": 1,
+        "fullName": "Karamjeet Singh",
+        "pictureUrl": "Karamjeet",
+        "email": "karamjeetsinghbuttar@gmail.com",
+        "about": "iOS developer",
+        "friends": [
+                    {
+                    "name": "Kuldeep",
+                    "pictureUrl": "Kuldeep"
+                    },
+                    {
+                    "name": "Parveen",
+                    "pictureUrl": "Parveen"
+                    },
+                    {
+                    "name": "Mohit",
+                    "pictureUrl": "Mohit"
+                    },
+                    {
+                    "name": "Rajat",
+                    "pictureUrl": "Rajat"
+                    }
+                    ],
+        "profileAttributes": [
+                              {
+                              "key": "Date of birth",
+                              "value": "January 28, 1986"
+                              },
+                              {
+                              "key": "Gender",
+                              "value": "male"
+                              },
+                              {
+                              "key": "Height",
+                              "value": "164"
+                              }
+                              ]
+    },
+    "error": 0,
+    "message": "Success"
+}
